@@ -1,0 +1,13 @@
+
+<ion-content class="content">
+  <ion-list *ngIf="showMe ; else notShow">
+    <ion-item>
+      <canvas id="myCanvas"></canvas>
+    </ion-item>
+  </ion-list>
+  <ng-template #notShow>
+  <ion-button class="butt animated pulse infinite" >
+    <fa-icon [icon]="faMicrophone" size="5x"></fa-icon>
+  </ion-button>
+</ng-template>
+</ion-content>

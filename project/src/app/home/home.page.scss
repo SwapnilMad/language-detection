@@ -1,0 +1,22 @@
+.content{
+    text-align:center;
+    --background: radial-gradient(circle,#fefefa, #fefef4);
+}
+
+.butt {
+    height: 200px;
+    width: 200px;
+    --border-radius: 50%;
+    position: relative;
+    top:35vh;
+
+}
+
+ion-list-header{
+    display:block;
+    text-align: center;
+}
+
+ion-list-header > ion-label{
+    font-size: 56px;
+}
