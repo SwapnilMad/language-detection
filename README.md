@@ -1,9 +1,15 @@
 # language-detection
 Ionic ios app to detect language
 
-Steps:
-1) Start Flask server
-python detect.py
+## Getting Started
+Clone or download the project to your system
 
-2) Install the app on ios device
-ionic cordova run ios --device
+### Prerequisites
+Python, Ionic, Node.js, Angular
+
+### Running
+<p>Start Flask server</p>
+<pre>python detect.py</pre>
+
+<p>Install the app on ios device</p>
+<pre>ionic cordova run ios --device</pre>
