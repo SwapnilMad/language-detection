@@ -5,7 +5,7 @@ Ionic ios app that uses Google Speech to detect languages
 <thead></thead>
 <tbody>
 <tr align="center">
-<td>Welcome Animation</td><td> Detect Button </td>
+<td>Welcome Animation</td><td> App Page </td>
 </tr>
 <tr>
 <td><img src="project/src/assets/lang_det.png" /></td><td><img src="project/src/assets/lan_det_welcome.png" /></td>
