@@ -1,5 +1,18 @@
 # language-detection
-Ionic ios app to detect language
+Ionic ios app that uses Google Speech to detect languages
+
+<table>
+<thead></thead>
+<tbody>
+<tr align="center">
+<td>Welcome Animation</td><td> Detect Button </td>
+</tr>
+<tr>
+<td><img src="project/src/assets/lang_det.png" /></td><td><img src="project/src/assets/lan_det_welcome.png" /></td>
+</tr>
+
+</tbody>
+</table>
 
 ## Getting Started
 Clone or download the project to your system
